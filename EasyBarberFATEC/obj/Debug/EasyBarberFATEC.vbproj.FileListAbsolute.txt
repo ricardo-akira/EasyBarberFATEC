@@ -1,0 +1,26 @@
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\bin\Debug\EasyBarberFATEC.exe.config
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\bin\Debug\EasyBarberFATEC.exe
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\bin\Debug\EasyBarberFATEC.pdb
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\bin\Debug\EasyBarberFATEC.xml
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.vbproj.AssemblyReference.cache
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.frm_login.resources
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.Resources.resources
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.vbproj.GenerateResource.cache
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.vbproj.CoreCompileInputs.cache
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.exe
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.xml
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.pdb
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.frm_carregamento.resources
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\Interop.ADODB.dll
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.vbproj.ResolveComReference.cache
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.frm_cadastro.resources
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.frm_paineldoadm.resources
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.frm_paineldobarbeiro.resources
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.frm_paineldocliente.resources
+C:\Users\umtal\Documents\Visual Basic\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.frm_alterarcadastro.resources
+C:\RICARDO\FATEC\2° Semestre\Sistemas de Informacao- Humberto\EasyBarberFATEC\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.vbproj.AssemblyReference.cache
+C:\RICARDO\FATEC\2° Semestre\Sistemas de Informacao- Humberto\EasyBarberFATEC\EasyBarberFATEC\obj\Debug\Interop.ADODB.dll
+C:\RICARDO\FATEC\2° Semestre\Sistemas de Informacao- Humberto\EasyBarberFATEC\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.vbproj.ResolveComReference.cache
+C:\RICARDO\FATEC\2° Semestre\Sistemas de Informacao- Humberto\EasyBarberFATEC\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.exe
+C:\RICARDO\FATEC\2° Semestre\Sistemas de Informacao- Humberto\EasyBarberFATEC\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.xml
+C:\RICARDO\FATEC\2° Semestre\Sistemas de Informacao- Humberto\EasyBarberFATEC\EasyBarberFATEC\obj\Debug\EasyBarberFATEC.pdb
